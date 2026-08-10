@@ -1069,7 +1069,7 @@
       200
     ]
   ],
-  "uid": 5199957870438586000,
+  "uid": 5199957870438586395,
   "version": 1,
   "via_protocol": 9,
   "vial_protocol": 6,
@@ -1248,34 +1248,34 @@
         "KC_NO"
       ],
       [
+        "KC_F12",
         "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "0xffff"
-      ],
-      [
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
+        "KC_F8",
+        "KC_F4",
         "KC_NO",
         "0xffff"
       ],
       [
+        "KC_F11",
         "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
+        "KC_F7",
+        "KC_F3",
         "KC_NO",
         "0xffff"
       ],
       [
+        "KC_F10",
         "KC_NO",
+        "KC_F6",
+        "KC_F2",
         "KC_NO",
+        "0xffff"
+      ],
+      [
+        "KC_F9",
         "KC_NO",
-        "KC_NO",
+        "KC_F5",
+        "KC_F1",
         "KC_NO",
         "0xffff"
       ],
@@ -1289,9 +1289,9 @@
       ],
       [
         "KC_PGDOWN",
-        "KC_NO",
-        "KC_DOWN",
         "KC_END",
+        "KC_DOWN",
+        "KC_NO",
         "KC_LEFT",
         "0xffff"
       ],
